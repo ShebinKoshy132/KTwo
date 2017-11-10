@@ -5,7 +5,8 @@ Pod::Spec.new do |s|
 
 
   s.description      = <<-DESC
- King is very powerful
+                       * King is very powerful
+                       DESC
 
   s.homepage         = 'https://github.com/ShebinKoshy132/KTwo'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
