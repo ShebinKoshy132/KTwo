@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'KingTwo'
-  s.version          = '2.0'
+  s.version          = '1.0'
   s.summary          = 'A short description of King Two :)'
 
 
@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/ShebinKoshy132/KTwo'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'shebin.koshy@cybosol.com' => 'shebin.koshy@cybosol.com' }
-  s.source           = { :git => 'https://github.com/ShebinKoshy132/KTwo.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ShebinKoshy132/KTwo.git', :tag => '1.1' }
 
 
   s.ios.deployment_target = '8.0'
