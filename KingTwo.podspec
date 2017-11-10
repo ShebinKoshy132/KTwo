@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/ShebinKoshy132/KTwo'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'shebin.koshy@cybosol.com' => 'shebin.koshy@cybosol.com' }
-  s.source           = { :git => 'https://github.com/ShebinKoshy132/KTwo.git', :tag => '1.1' }
+  s.source           = { :git => 'https://github.com/ShebinKoshy132/KTwo.git', :tag => '1.3' }
 
 
   s.ios.deployment_target = '8.0'
